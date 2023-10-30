@@ -39,6 +39,21 @@ body{
     color: #333;
     text-decoration: none;
 }
+
+#top_slide {
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    text-align: left;
+    overflow: hidden;
+    position: relative;
+}
+
+#top_slide img {
+    top: 0;
+    left: 0;
+    position: absolute;
+}
 .main_content{
     line-height: 1.6;
     margin: 0 auto;

@@ -4,6 +4,25 @@
     <meta charset="utf-8" lang="ja">
     <title>BAR TAYSON</title>
     <link rel="stylesheet" href="css/all.css" type="text/css">
+
+        <!-- JavaScript -->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                var setImg = '#top_slide';
+                var fadeSpeed = 1400;
+                var switchDelay = 5000;
+
+                $(setImg).children('img').css({opacity:'0'});
+                $(setImg + ' img:first').stop().animate({opacity:'1',zIndex:'20'},fadeSpeed);
+
+                setInterval(function(){
+                    $(setImg + ' :first-child').animate({opacity:'0'},fadeSpeed).next('img').animate({opacity:'1'},fadeSpeed).end().appendTo(setImg);
+                },switchDelay);
+            });
+        </script>
+
+
 </head>
 
 <body>
@@ -19,6 +38,16 @@
             </ul>
         </nav>
     </header>
+
+    <div id="top_slide">
+        <img src="image/slide/atmosphere.jpg" width="1500" alt="">
+        <img src="image/slide/counter.jpg" width="1500" alt="">
+        <img src="image/slide/faucet.jpg" width="1500" alt="">
+        <img src="image/slide/glass.jpg" width="1500" alt="">
+        <img src="image/slide/lamp.jpg" width="1500" alt="">
+        <img src="image/slide/store_interior.jpg" width="1500" alt="">
+        <img src="image/slide/table.jpg" width="1500" alt="">
+    </div>
 
     <div class="main_content">
         <p>
