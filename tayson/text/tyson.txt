@@ -1,0 +1,48 @@
+・ターゲット
+    20後半　女性
+
+
+・1ページスクロールにするか　https://bar9-yamatoyagi.com/
+
+〇ページ分けするか　　https://cohookah03012.com/page10.aspx
+
+・載せてほしいこと
+    メニュー　写真　ガチャガチャ
+    シーシャについての説明　注意書き
+    アクセス
+    (フレーバーが変わります）
+    インスタ、公式ライン　URL
+    内装写真
+    決済方法　現金　paypay　クレカ
+
+・雰囲気
+夜カフェ
+お店の雰囲気に合わせる
+
+・レンタルサーバーどうするか
+
+・ドメインどうするか
+
+bartayson
+
+****　ドメイン空検索　*****
+https://www.onamae.com/
+***** 例 ****
+https://www.yahoo.co.jp/
+
+・googleビジネスプロフィールの管理は？
+
+
+
+
+・LINE@配信
+
+
+
+----------------------------------memo-----------------------------------------
+#公開手順
+https://teru1213.com/file-upload/
+#SSL等設定
+https://www.xserver.ne.jp/bizhp/homepage-release-method/#%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E5%89%8D%E3%81%AE%E6%BA%96%E5%82%99
+#ネームサーバーの設定
+https://www.xserver.ne.jp/manual/man_domain_namesever_setting.php
