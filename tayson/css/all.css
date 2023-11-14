@@ -41,6 +41,10 @@ body{
     text-decoration: none;
 }
 
+.main_area{
+    padding-top: 300px;
+}
+
 #top_slide {
     width: 65%;
     height: auto;
@@ -48,7 +52,6 @@ body{
     text-align: left;
     overflow: hidden;
     z-index: 20;
-    /* position: relative; */
 }
 
 #top_slide img {
@@ -64,13 +67,10 @@ body{
 }
 .main_content{
     line-height: 1.6;
-    margin: 45% auto;
-    /* padding-top: 130px; */
+    margin: 30% auto 5% auto;
     width: 70%;
 }
-.main_content p{
-    margin-bottom: 40px;
-}
+
 .site-footer{
     background: #333;
     padding: 30px 30px;
